@@ -1,0 +1,10 @@
+{
+  "description": "",
+  "dependencies": {
+    "gsap": "^3.12.5",
+    "three": "^0.167.0"
+  },
+  "devDependencies": {
+    "vite": "^5.3.5"
+  }
+}
