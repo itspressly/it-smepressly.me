@@ -1,4 +1,4 @@
-import * as THREE from 'three';
+import * as THREE from 'https://unpkg.com/three@0.127.0/build/three.module.js';
 import './styles.css'
 import gsap from 'gsap';
 import { OrbitControls } from 'three/examples/jsm/Addons.js';
