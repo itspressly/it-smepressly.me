@@ -43,7 +43,7 @@ nav ul{
 
 
 .title {
-    color: aliceblue;
+    color: rgb(0, 0, 0);
     z-index: 2;
     position: absolute;
     font-size: 29px;
